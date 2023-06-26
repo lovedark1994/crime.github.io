@@ -1,0 +1,10 @@
+{
+	"name": "罪證",
+	"short_name": "罪證",
+	"description": "",
+	"start_url": "index.html",
+	"display": "fullscreen",
+	"orientation": "portrait",
+	"background_color": "#ffffff",
+	"icons": []
+}
